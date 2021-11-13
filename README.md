@@ -12,3 +12,8 @@ jest kilka dróg, warto rozważyć każdą z nich w zalezności od czasu:
 + współpraca przy projekcie otwartym opensource
 
 [About Opensource licenses - Otwarty Kod](https://www.otwartykod.pl/)
+
+
++ oferty pracy dla programisty juniora
+
+[programistajs.pl](https://www.programistajs.pl/#/) 
