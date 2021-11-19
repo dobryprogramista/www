@@ -1,28 +1,3 @@
-<!-- START: This file is rendered, dont' edit it, just separated parts --> 
-<!-- README/HEAD.md --> 
-# www.dobryprogramista.pl
-
-https://dobryprogramista.github.io/www/
-<!-- README/BODY.md --> 
-Strona informacyjna, dla szukających wsparcia przy rozwoju kariery programisty.
-
-jest kilka dróg, warto rozważyć każdą z nich w zalezności od czasu:
-
-+ nauka online za pomocą narzędzi
-
-+ szkolenia grupowe i inydidualne
-
-+ współpraca przy projekcie otwartym opensource
-
-[About Opensource licenses - Otwarty Kod](https://www.otwartykod.pl/)
-
-
-+ oferty pracy dla programisty juniora
-
-[programistajs.pl](https://www.programistajs.pl/#/) 
-
-
-<!-- README/FOOT.md --> 
 
 
 ## About Tom Sapletta
@@ -59,4 +34,3 @@ jest kilka dróg, warto rozważyć każdą z nich w zalezności od czasu:
 ```
 https://github.com/web-stream/www.git
 ```
-<!-- END: This file is rendered, dont' edit it, just separated parts --> 
