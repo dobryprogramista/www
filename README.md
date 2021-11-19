@@ -54,9 +54,10 @@ jest kilka dróg, warto rozważyć każdą z nich w zalezności od czasu:
 
 
 ---
-+ [edit](https://github.com/web-stream/www/edit/main/README.md)
-+ [web-stream/www](https://github.com/web-stream/www)
++ [edit](https://github.com/dobryprogramista/www/edit/main/README.md)
++ [projects: dobryprogramista/www](https://github.com/dobryprogramista/www)
++ [organisation: dobryprogramista](https://github.com/dobryprogramista)
 ```
-https://github.com/web-stream/www.git
+https://github.com/dobryprogramista/www.git
 ```
 <!-- END: This file is rendered, dont' edit it, just separated parts --> 
