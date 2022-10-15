@@ -1,5 +1,5 @@
 ./DOCS/MENU.md
 ./DOCS/ABOUT.md
 ./JOB/ALL.md
-./DOCS/PROJECTS.md
+./DOCS/ANOTHER.md
 ./DOCS/FOOT.md
